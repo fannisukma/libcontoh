@@ -1,0 +1,17 @@
+{
+    "name": "fanni/libhallo",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fannisukma",
+            "email": "fannisukma@pnp.ac.id"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"fanni\\libhallo\\" : "src/"}
+    },
+    "require": {}
+}
